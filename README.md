@@ -30,5 +30,5 @@
 
 | Report Title      | Blogpost                                              | Documents                         | Author(s)                              | Date        |
 | ----------------- | ----------------------------------------------------- | --------------------------------- | -------------------------------------- | ----------- |
-| [AlignedLayer](https://alignedlayer.com/) | [Read more](https://alignedlayer.com/blogpost)        | [📄✅](reports/alignedlayer%20-%20reports.pdf) | Nabih Benazzouz, Mohammed Benhelli | August 2024 |
+| [AlignedLayer](https://alignedlayer.com/) | [Read more](https://fuzzinglabs.com/security-blog/)        | [📄✅](reports/alignedlayer%20-%20reports.pdf) | Nabih Benazzouz, Mohammed Benhelli | August 2024 |
 
