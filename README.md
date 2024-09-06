@@ -24,7 +24,7 @@
 
 | Workshop Title | Event                    | Author(s)             | Date      |
 | -------------- | ------------------------ | --------------------- | --------- |
-| [Fuzz & Furious: Accelerating Smart Contract Security with Cairo-Fuzzer](workshops/Workshop%20StarknetCC%202023%20-%20Cairo-Fuzzer.pdf) | StarkNetCC Paris 2023 | Nabih Benazzouz          | July 2023 |
+| [Fuzz & Furious: Accelerating Smart Contract Security with Cairo-Fuzzer](workshops/Workshop%20StarknetCC%202023%20-%20Cairo-Fuzzer.pdf) | StarkNetCC Paris 2023 | Nabih Benazzouz          | 2023 |
 
 ## Reports
 
