@@ -7,6 +7,7 @@
 ## Bug Bounty programs
 
 - [FuzzingLabs on Immunefi](https://immunefi.com/profile/fuzzinglabs/)
+- [FuzzingLabs on Huntr](https://huntr.com/users/pventuzelo)
 
 ## Conference Presentations
 
