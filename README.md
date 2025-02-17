@@ -28,6 +28,9 @@
 
 ## Reports
 
-| Report Title                              | Blogpost                                            | Documents                                     | Author(s)                          | Date        |
-| ----------------------------------------- | --------------------------------------------------- | --------------------------------------------- | ---------------------------------- | ----------- |
-| [AlignedLayer](https://alignedlayer.com/) | [Read more](https://fuzzinglabs.com/security-blog/) | [📄✅](reports/alignedlayer%20-%20report.pdf) | Nabih Benazzouz, Mohammed Benhelli | August 2024 |
+| Report Title                              | Blogpost                                                                          | Documents                                                          | Author(s)                          | Date          |
+| ----------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------- | ------------- |
+| [Drand](https://drand.love/)              | [Read more](https://fuzzinglabs.com/security-blog)                                | [📄✅](reports/Report_Drand_Audit_Fuzzing_Fuzzinglabs.pdf)         | Nabih Benazzouz, Mohammed Benhelli | February 2024 |
+| [AlignedLayer](https://alignedlayer.com/) | [Read more](https://fuzzinglabs.com/aligned-layer-security-assessment-completed/) | [📄✅](reports/alignedlayer%20-%20report.pdf)                      | Nabih Benazzouz, Mohammed Benhelli | August 2024   |
+| [AlignedLayer](https://alignedlayer.com/) | [Read more](https://fuzzinglabs.com/security-blog/)                               | [📄✅](reports/AlignedLayer%20-%20ERC20%20-%20December%202024.pdf) | Nabih Benazzouz, Mohammed Benhelli | December 2024 |
+| [Story](https://www.story.foundation/)    | [Read more](https://fuzzinglabs.com/story-security-audit/)                        | [📄✅](reports/STORY%20-%20Audit%20Report.pdf)                     | Nabih Benazzouz, Mohammed Benhelli | December 2024 |
