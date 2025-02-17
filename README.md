@@ -4,6 +4,10 @@
 - [Workshops](#workshops)
 - [Reports](#reports)
 
+## Bug Bounty programs
+
+- [FuzzingLabs on Immunefi](https://immunefi.com/profile/fuzzinglabs/)
+
 ## Conference Presentations
 
 | Presentation Title                                                                                                                                      | Event                   | Author(s)                                               | Date |
